@@ -29,7 +29,6 @@ public class PaymentGatewayApplication {
 			throw new RuntimeException(e);
 		} ;
 
-
 	}
 
 }
